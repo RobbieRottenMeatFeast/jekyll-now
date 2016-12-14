@@ -64,7 +64,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: rgb(51, 204, 255);
 }
 
 p {
@@ -125,12 +125,12 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: rgb(51, 204, 255);
+  background: rgb(51, 204, 255);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: rgb(51, 204, 255);
+  background: rgb(51, 204, 255);
 }
 
 // Nicolas Gallagher's micro clearfix hack
