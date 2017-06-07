@@ -120,7 +120,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: $green;
 }
 
 // Specify the color of the selection
@@ -205,7 +205,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $green;
   font-size: 16px;
 
   @include mobile {
